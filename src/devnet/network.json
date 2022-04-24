@@ -1,0 +1,18 @@
+{
+    "name": "devnet",
+    "messagePrefix": "DCAU message:\n",
+    "bip32": {
+        "public": 46090600,
+        "private": 46089520
+    },
+    "pubKeyHash": 30,
+    "nethash": "92cab31a43f77846d4a2e0c32bdc76038f20c619e694704ba355fa6b571b29c1",
+    "wif": 152,
+    "slip44": 1,
+    "aip20": 1,
+    "client": {
+        "token": "DCAU",
+        "symbol": "Dꚦ",
+        "explorer": "https://dexplorer.cauri.cm"
+    }
+}

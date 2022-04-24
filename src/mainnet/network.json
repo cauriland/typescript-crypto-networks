@@ -1,0 +1,18 @@
+{
+    "name": "mainnet",
+    "messagePrefix": "CAU message:\n",
+    "bip32": {
+        "public": 46090600,
+        "private": 46089520
+    },
+    "pubKeyHash": 28,
+    "nethash": "5dec80cfd032ffcdce44ff0d74fcb8b23c4e023335c67ed7e7b136bccf2fe6de",
+    "wif": 16,
+    "slip44": 111,
+    "aip20": 0,
+    "client": {
+        "token": "CAU",
+        "symbol": "ꚦ",
+        "explorer": "https://explorer.cauri.cm"
+    }
+}

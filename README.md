@@ -1,7 +1,9 @@
 # Cauri TypeScript Crypto - Network Configurations
 
 <p align="center">
-    <img src="./banner.png?sanitize=true" />
+    <object data="./banner.png" type="image/png">
+      <img src="https://raw.githubusercontent.com/cauriland/typescript-crypto-networks/main/banner.png" />
+    </object>
 </p>
 
 > Network Configurations for the Cauri Blockchain. Developed for TypeScript.
